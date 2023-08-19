@@ -1,5 +1,5 @@
 # note-taking
 Created with CodeSandbox
 
-https://vxvvcu-3000.csb.app/
+https://codesandbox.io/s/bharaths-note-taking-project-8ts2nu
 
